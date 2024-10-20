@@ -1,7 +1,7 @@
 # ⚡️ **Quantum QR Generator** ⚡️
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your_logo_url_here" alt="Quantum QR Generator Logo" width="200"/>
+  <img src="https://github.com/hari7261/Quantum-QR-Generator/blob/main/github/20946002%20(1).jpg" alt="Quantum QR Generator Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Your app will be running at `http://localhost:3000`.
 ## 🌐 **Screenshots**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-screenshot-url" alt="Quantum QR Generator Preview" width="700"/>
+  <img src="https://github.com/hari7261/Quantum-QR-Generator/blob/main/github/Screenshot%202024-10-20%20122805.png" alt="Quantum QR Generator Preview" width="700"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## 👨‍💻 **Contributors**
 
-| ![hari7261](https://avatars.githubusercontent.com/u/your-avatar-url?s=100) |
+| ![hari7261](https://avatars.githubusercontent.com/u/138400713?v=4) |
 | :------------------------------------------------------------------------: |
 | **[hari7261](https://github.com/hari7261)**                                |
 
@@ -111,13 +111,13 @@ We welcome **issues** and **pull requests**! Feel free to contribute or ask for 
 
 ## 🤝 **Support**
 
-If you like this project, please consider giving it a ⭐ on [GitHub](https://github.com/hari7261/quantum-qr-generator) or following me on [GitHub](https://github.com/hari7261)!
+If you like this project, please consider giving it a ⭐ on [GitHub](https://github.com/hari7261/Quantum-QR-Generator) or following me on [GitHub](https://github.com/hari7261)!
 
 <p align="center">
   <a href="https://github.com/hari7261" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-hari7261-%2312100E?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://twitter.com/hari7261" target="_blank">
+  <a href="https://twitter.com/Hari_Om_Pandit" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-hari7261-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -128,14 +128,6 @@ If you like this project, please consider giving it a ⭐ on [GitHub](https://gi
 
 ### v1.0.0 (2024-10-20)
 - Initial release of **Quantum QR Generator** 🥳
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-logo-url-here" alt="footer logo" width="100"/>
-  <br />
-  <b>Futuristic QR Codes for Modern Times! 🌌</b>
-</p>
 
 ---
 
@@ -150,7 +142,7 @@ If you like this project, please consider giving it a ⭐ on [GitHub](https://gi
 ### **Let's connect:**
 <p align="center">
   <a href="https://github.com/hari7261" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/hari7261" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/Hari_Om_Pandit" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hari7261" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -159,7 +151,7 @@ If you like this project, please consider giving it a ⭐ on [GitHub](https://gi
 ### 🖼️ **Banner**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/banner-url-here" alt="Quantum QR Generator Banner" width="800"/>
+  <img src="https://github.com/hari7261/Quantum-QR-Generator/blob/main/github/Screenshot%202024-10-20%20122825.png" alt="Quantum QR Generator Banner" width="800"/>
 </p>
 
 ---
