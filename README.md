@@ -1,7 +1,3 @@
-Here’s a futuristic and visually appealing README file that you can add to your GitHub repository. This README includes emojis, icons, colorful lines, tables, and logos to give it a vibrant and exciting feel, fitting for a project like a **Futuristic QR Generator**. You can customize it further based on your project details.
-
----
-
 # ⚡️ **Quantum QR Generator** ⚡️
 
 <p align="center">
@@ -25,7 +21,7 @@ Here’s a futuristic and visually appealing README file that you can add to you
 
 The **Quantum QR Generator** is an advanced and sleek tool designed to let you generate fully customizable QR codes with cutting-edge features. Whether you need a QR code for your website, app, or any other futuristic project, we've got you covered!
 
-🔗 **Live Demo**: [Quantum QR Generator](https://your-live-demo-link.com)
+🔗 **Live Demo**: [Quantum QR Generator](https://quantum-qr-generator.vercel.app/)
 
 ---
 
